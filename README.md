@@ -8,6 +8,9 @@ create readme:~yes
 html done:
 CSS done:
 
+concept: street performance 
+instruments such as guitar, drums, saxophone, piano
+
 create music deveopment website based on "incrediBox" site linked on FOL
 
 "Sprint 1: Setup, analysis and initial design
